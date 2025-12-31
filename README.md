@@ -29,11 +29,12 @@ The project includes practical implementations of core graphics algorithms and c
 Make sure **Python 3.x** is installed:
 ```bash
 python --version
+```
 ### 2️⃣ Install Required Libraries
-```bash
+```
 pip install PyOpenGL PyOpenGL_accelerate
 ### 3️⃣ Run a Program
-```bash
+```
 Navigate to the lab folder and run:
 python filename.py
 🖥️ Output
