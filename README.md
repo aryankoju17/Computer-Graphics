@@ -33,10 +33,12 @@ python --version
 ### 2️⃣ Install Required Libraries
 ```
 pip install PyOpenGL PyOpenGL_accelerate
+```
 ### 3️⃣ Run a Program
 ```
 Navigate to the lab folder and run:
 python filename.py
+```
 🖥️ Output
 Each program opens an OpenGL window displaying the required graphical output as per the lab specification.
 
